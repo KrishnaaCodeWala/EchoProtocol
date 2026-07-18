@@ -26,11 +26,6 @@ Somnia Mainnet ──swap events──► Watcher Service ──score──► C
 - **AI Engine:** Claude Haiku (with fallback LLM reasoning)
 - **On-Chain Ecosystem:** Somnia Shannon Testnet (Chain ID `50312`), customized `aUSD` stablecoin, smart contract-based agent vaults
 
-## Live Deployment
-
-- **Live Application:** [echo-app.vercel.app](https://echo-app.vercel.app)
-- **Landing Page:** [echo-landing.vercel.app](https://echo-landing.vercel.app)
-
 ---
 
 ## Local Development Setup
