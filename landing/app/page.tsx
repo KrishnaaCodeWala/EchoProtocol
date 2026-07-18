@@ -241,7 +241,13 @@ export default function Home() {
           </a>
         </header>
 
-
+        {/* Hero Headline */}
+        <div className="hero-wrapper">
+          <h1 className="hero-text interactive-element">
+            Copy the best traders on Somnia. Your on-chain agent mirrors their
+            every move — automatically, non-custodially, within limits you set.
+          </h1>
+        </div>
 
       </main>
 
